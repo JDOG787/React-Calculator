@@ -1,0 +1,18 @@
+.Calculator {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.btns {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    grid-gap: 20px;
+}
+
+.zero {
+    grid-column: 2 / 4 ;
+    grid-row: 5 / 6;
+    border-radius: 50px;
+}
