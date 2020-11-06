@@ -1,4 +1,4 @@
 # React-Calculator
 A simple calculator app made with react.js
 
-![Image](/pic.png)
+![Image](pubic/pic.png)
